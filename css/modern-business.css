@@ -12,8 +12,11 @@ body {
 }
 
 body {
-    background-color: #F5F5F5;
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 50px;
+    background-image: url('../img/about/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #b0906c;
 }
 
 .page-container {
